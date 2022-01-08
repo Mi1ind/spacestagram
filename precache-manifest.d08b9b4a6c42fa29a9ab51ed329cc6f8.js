@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f134c1f174e353bf60d1",
+    "revision": "4007506e7620e2897161",
     "url": "/spacestagram/static/css/main.9ffd3621.chunk.css"
   },
   {
-    "revision": "f134c1f174e353bf60d1",
-    "url": "/spacestagram/static/js/main.f134c1f1.chunk.js"
+    "revision": "4007506e7620e2897161",
+    "url": "/spacestagram/static/js/main.4007506e.chunk.js"
   },
   {
     "revision": "2a6b1802e9b6271fb83f",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/spacestagram/static/media/gray.32b5bbcb.png"
   },
   {
-    "revision": "5cadf1baa6451e03dba583fd8075437b",
+    "revision": "94cf9c432b9b897ea82b2c7bf943ed22",
     "url": "/spacestagram/index.html"
   }
 ];
