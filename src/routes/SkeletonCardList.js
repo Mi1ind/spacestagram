@@ -44,6 +44,7 @@ const SkeletonCardList = () => {
           <SkeletonPage title="Spacestagram">
             {skeletonCard}
             {skeletonCard}
+            {skeletonCard}
           </SkeletonPage>
         </Frame>
       </AppProvider>
